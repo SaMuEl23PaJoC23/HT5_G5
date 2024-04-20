@@ -1,0 +1,4 @@
+if data == '0':
+  puertoSerie.Write(b'0')
+  print('Led Apagado... \n)
+puertoSerie.close()
